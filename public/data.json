@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "image": "/public/images/Clothing.png",
+        "title": "Education Fund",
+        "category": "Education",
+        "category_bg": "#5cb85c",
+        "card_bg": "#dff0d8",
+        "text_button_bg": "#333333",
+        "description": "The Education Fund is a vital initiative dedicated to supporting educational opportunities for children in underserved communities. With your generous contributions, we aim to break down barriers to education and empower young minds to thrive. Your donations directly impact access to quality schooling, educational resources, and extracurricular activities for children who may otherwise lack these essential opportunities. By investing in education, you're investing in the future, laying the foundation for brighter tomorrows and fostering positive change within communities. Together, we can bridge educational gaps, inspire lifelong learning, and cultivate a generation of empowered individuals poised to make meaningful contributions to society. Join us in our mission to ensure that every child has the chance to pursue their dreams, unlock their potential, and build a better future for themselves and generations to come.",
+        "price": "300"
+    },
+    {
+        "id": 2,
+        "image": "/public/images/Education.png",
+        "title": "Food Drive",
+        "category": "Food",
+        "category_bg": "#d9534f",
+        "card_bg": "#f2dede",
+        "text_button_bg": "#333333",
+        "description": "The Food Drive initiative is dedicated to alleviating hunger and food insecurity in vulnerable communities. Your generous donations enable us to distribute nutritious meals to those in need, providing essential sustenance to individuals and families facing food shortages. By supporting our Food Drive, you're directly impacting lives, offering hope and nourishment to those experiencing hardship. Together, we can combat hunger and ensure that everyone has access to an adequate and healthy diet. Your contribution, no matter how big or small, makes a difference in the fight against hunger. Join us in our mission to create a world where no one goes to bed hungry, where food insecurity becomes a thing of the past, and where every individual has the opportunity to thrive with dignity.",
+        "price": "300"
+    },
+    {
+        "id": 3,
+        "image": "/public/images/Food.png",
+        "title": "Medical Relief",
+        "category": "Health",
+        "category_bg": "#f0ad4e",
+        "card_bg": "#fcf8e3",
+        "text_button_bg": "#333333",
+        "description": "The Medical Relief initiative aims to provide critical medical assistance and supplies to individuals and communities affected by natural disasters, conflicts, and other emergencies. Your donations enable us to deploy medical teams, deliver essential medicines, and set up mobile clinics in remote and underserved areas, ensuring that even the most vulnerable receive the care they urgently need. By supporting Medical Relief efforts, you're directly contributing to saving lives, alleviating suffering, and restoring hope amidst crisis situations. Your generosity helps bridge gaps in healthcare access, promotes resilience, and strengthens healthcare systems to better respond to emergencies in the future. Together, we can make a profound difference in the lives of those facing medical emergencies, offering them a lifeline when they need it most.",
+        "price": "300"
+    },
+    {
+        "id": 4,
+        "image": "/public/images/Health.png",
+        "title": "Clean Water Project",
+        "category": "Water",
+        "category_bg": "#5bc0de",
+        "card_bg": "#d9edf7",
+        "text_button_bg": "#333333",
+        "description": "The Clean Water Project is dedicated to providing access to clean and safe drinking water to communities in need around the world. Your contributions support initiatives to build wells, install water filtration systems, and implement sanitation solutions in underserved areas, ensuring that every individual has access to this basic human necessity. By donating to the Clean Water Project, you're not only preventing waterborne diseases and improving public health but also empowering communities to thrive and break the cycle of poverty. Your support transforms lives, offering hope and dignity to those who previously lacked access to clean water. Together, we can make a lasting impact, creating a healthier and more sustainable future where everyone has the right to clean water.",
+        "price": "300"
+    },
+    {
+        "id": 5,
+        "image": "/public/images/Clothing.png",
+        "title": "Environmental Conservation",
+        "category": "Environment",
+        "category_bg": "#428bca",
+        "card_bg": "#d9edf7",
+        "text_button_bg": "#333333",
+        "description": "Help protect and preserve the environment through tree planting and conservation efforts.",
+        "price": "300"
+    },
+    {
+        "id": 6,
+        "image": "/public/images/Education.png",
+        "title": "Homeless Shelter Support",
+        "category": "Community",
+        "category_bg": "#5bc0de",
+        "card_bg": "#d9edf7",
+        "text_button_bg": "#333333",
+        "description": "Assist homeless shelters with resources and services to provide shelter and aid to the homeless.",
+        "price": "300"
+    },
+    {
+        "id": 7,
+        "image": "/public/images/Food.png",
+        "title": "Animal Welfare",
+        "category": "Animals",
+        "category_bg": "#f0ad4e",
+        "card_bg": "#fcf8e3",
+        "text_button_bg": "#333333",
+        "description": "Support animal rescue and adoption programs to ensure the well-being of animals.",
+        "price": "300"
+    },
+    {
+        "id": 8,
+        "image": "/public/images/Health.png",
+        "title": "Disaster Relief",
+        "category": "Emergency",
+        "category_bg": "#d9534f",
+        "card_bg": "#f2dede",
+        "text_button_bg": "#333333",
+        "description": "Provide immediate assistance and aid to communities affected by natural disasters.",
+        "price": "300"
+    },
+    {
+        "id": 9,
+        "image": "/public/images/Clothing.png",
+        "title": "Empowerment Programs",
+        "category": "Empowerment",
+        "category_bg": "#5cb85c",
+        "card_bg": "#dff0d8",
+        "text_button_bg": "#333333",
+        "description": "Support programs that empower individuals through skill development and education.",
+        "price": "300"
+    },
+    {
+        "id": 10,
+        "image": "/public/images/Education.png",
+        "title": "Senior Citizens Assistance",
+        "category": "Community",
+        "category_bg": "#428bca",
+        "card_bg": "#d9edf7",
+        "text_button_bg": "#333333",
+        "description": "Provide support and resources to improve the quality of life for senior citizens.",
+        "price": "300"
+    },
+    {
+        "id": 11,
+        "image": "/public/images/Food.png",
+        "title": "Arts and Culture",
+        "category": "Arts",
+        "category_bg": "#f0ad4e",
+        "card_bg": "#fcf8e3",
+        "text_button_bg": "#333333",
+        "description": "Support arts and cultural programs to promote creativity and diversity.",
+        "price": "300"
+    },
+    {
+        "id": 12,
+        "image": "/public/images/Health.png",
+        "title": "Women's Empowerment",
+        "category": "Empowerment",
+        "category_bg": "#d9534f",
+        "card_bg": "#f2dede",
+        "text_button_bg": "#333333",
+        "description": "Empower women and girls through education, health, and economic opportunities.",
+        "price": "300"
+    }
+]
